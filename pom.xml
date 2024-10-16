@@ -33,25 +33,18 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-        junit
-
-    junit
-
-    4.11
-
-    test
-    
-    org.seleniumhq.selenium  
-
-    selenium-java  
-
-    3.141.59  
-        
-    io.github.bonigarcia
-
-    webdrivermanager
-
-    4.3.1
+         <dependency>
+             junit
+             junit
+             4.11
+             test
+             org.seleniumhq.selenium  
+             selenium-java  
+             3.141.59  
+             io.github.bonigarcia
+             webdrivermanager
+             4.3.1
+        </dependency>
     </dependencies>
 
     <build>
